@@ -5,29 +5,17 @@
 - **Disclaimer**: Submissions to the  Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thank Professor and all my classmates for creating such a great class!
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
-  
+This research explores decision-making under risk in the context of the "Invest or Keep" game. It develops a new solution concept that combines the risk aversion of the players and the trade-off between risk and reward. The proposed solution concept goes beyond traditional equilibrium concepts by considering the influence of risk preferences on decision-making. The research provides opinions on how players make investment decisions and highlights the importance of risk aversion in strategic thinking. The findings have applications in investment decision-making, risk management, and the design of behavioral interventions. 
    
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
-
 ## Table of Contents
-
 - model
 - spotlight
 - more about the author
 - references
 
 ### Model
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
 
-
+It is static, normal form game of imperfect information. The game involves two players, Player A and Player B, who make simultaneous decisions without knowing the other player's choice. Each player has two options: "Invest" or "Keep." The game is played in a single round, and the outcome is determined based on the players' choices.
 
 
 ### Spotlight
