@@ -19,18 +19,15 @@ It is static, normal form game of imperfect information. The game involves two p
 
 
 ### Spotlight
+![](https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/headshot.png)
+
+### More about the Author
 - headshot
 ![](https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/headshot.png)
 - self-introduction
 Senior at Duke Kunshan Univirsity, has an interest in econ, finance, behavior science. Now trying hard to learn CS.
-
-### More about the Author
-- headshot
-- self-introduction
 - Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+  For intellectual growth, I combined computer science and economic thinking to solve real-life issues. I gained a deeper understanding of how machine learning algorithms can analyze vast amounts of data to predict decision-making. Because besides economy and finance, I am also interested in behavioral science, the course provides me with the knowledge and skills to further explore or prove some of the arguments I believe to be true. And by exploring the intersection of machine learning, social sciences, and economics, I found the magic of interdisciplinary research is to create innovative solutions. For example, the o-tree software skill I learned in class helped me to combine CS and behavioral science.
 
 ### References
 
