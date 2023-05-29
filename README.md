@@ -19,7 +19,10 @@ It is static, normal form game of imperfect information. The game involves two p
 
 
 ### Spotlight
-![]()
+- headshot
+![](https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/headshot.png)
+- self-introduction
+Senior at Duke Kunshan Univirsity, has an interest in econ, finance, behavior science. Now trying hard to learn CS.
 
 ### More about the Author
 - headshot
